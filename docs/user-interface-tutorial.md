@@ -149,17 +149,15 @@ Flywheel also supports searching for data.
    Fill in the min and max of the range, and the search term should appear in the query box on the left of the page.
 
    Add a search term by clicking "Add Term".
-   Type `cdrsum`, and select `subject.info.cognitive.cdr-latest.cdrsum` and set "Min" to 2 leaving "Max" blank.
+   Type `cdrsum`, and select `file.info.forms.json.cdrsum` and set "Min" to 2 leaving "Max" blank.
 
    The query box should have the following query
 
    ```text
-   file.info.forms.json.birthyr >= 1950 AND file.info.forms.json.birthyr <= 2000 AND subject.info.cognitive.cdr-latest.cdrsum >= 2
+   file.info.forms.json.birthyr >= 1950 AND file.info.forms.json.birthyr <= 2000 AND file.info.forms.json.cdrsum >= 2
    ```
 
    Click "Run Query", and you will see a list of results.
-
-   > Advanced Query searches over the metadata, which contains both values gathered from the data files (e.g., `file.info.forms.json.cdrsum`), and computed values (e.g., `subject.info.cognitive.cdr-latest.cdrsum`)
 
    Remember to exit the search mode.
 
