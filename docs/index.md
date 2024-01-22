@@ -12,4 +12,4 @@ We will set aside a few minutes to do any troubleshooting that might be needed.
 ## Sessions
 
 1. [ADRC Data in Flywheel User Interface](user-interface-tutorial.md)
-2. [Scripted Access](scrited-access-tutorial.md)
+2. [Scripted Access](scripted-access-tutorial.md)
