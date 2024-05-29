@@ -20,7 +20,9 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-toolsai.jupyter",
-				"mechatroner.rainbow-csv"
+				"mechatroner.rainbow-csv",
+                "yzhang.markdown-all-in-one",
+                "streetsidesoftware.code-spell-checker"
 			]
 		}
 	},
