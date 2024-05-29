@@ -94,7 +94,7 @@ So, you will want to use the interface to find what you want.
    The "picture frame" icon throughout Flywheel launches a data viewer.
    In this case, we have JSON data files, and the viewer is a simple interface that we built to make the data easier to read.
 
-   If you want to see the source data, click the vertical elipses to the right and choose "Launch in Code Editor".
+   If you want to see the source data, click the vertical ellipses to the right and choose "Launch in Code Editor".
    *We have permissions set so that you cannot change data files directly.*
 
 ### Project data
@@ -116,7 +116,7 @@ So, you will want to use the interface to find what you want.
 
    Note that the actions menu also allow other steps with the file, including downloading.
 
-4. *In the attachements list, click the blue box with the count next to one of the files*
+4. *In the attachments list, click the blue box with the count next to one of the files*
 
    Files are versioned in Flywheel; the blue box next to the file name shows the version.
    Clicking the blue box opens a dialog allowing you to access previous versions of the file.
@@ -182,4 +182,4 @@ We can create tabular data views within Flywheel, but we aren't going to get too
 
 ## Resources
 
-[Flywheel Documenation](https://docs.flywheel.io/)
+[Flywheel Documentation](https://docs.flywheel.io/)
